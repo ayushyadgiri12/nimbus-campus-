@@ -1,6 +1,6 @@
 {
   "name": "campus-helpdesk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nimbus Labs Campus Helpdesk Plugin — timetable lookup, campus status, and MCP-powered fee/hostel queries for the Nimbus Labs campus assistant.",
   "author": "Ayush Yadgiri",
   "homepage": "https://github.com/ayushyadgiri/campus-helpdesk-agent",
