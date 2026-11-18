@@ -1,0 +1,61 @@
+batch,day,period,subject,room,teacher,start_time,end_time,type
+CS2024A,Monday,1,Data Structures,LH-101,Dr. Priya Menon,09:00,10:00,Lecture
+CS2024A,Monday,2,Operating Systems,LH-101,Prof. Rahul Sharma,10:00,11:00,Lecture
+CS2024A,Monday,3,Mathematics III,LH-203,Dr. Sunita Rao,11:15,12:15,Lecture
+CS2024A,Monday,4,Data Structures Lab,CL-01,Dr. Priya Menon,14:00,16:00,Lab
+CS2024A,Tuesday,1,Computer Networks,LH-101,Dr. Anil Kumar,09:00,10:00,Lecture
+CS2024A,Tuesday,2,Database Systems,LH-205,Prof. Meena Joshi,10:00,11:00,Lecture
+CS2024A,Tuesday,3,Operating Systems,LH-101,Prof. Rahul Sharma,11:15,12:15,Lecture
+CS2024A,Tuesday,4,Mathematics III,LH-203,Dr. Sunita Rao,13:00,14:00,Lecture
+CS2024A,Wednesday,1,Data Structures,LH-101,Dr. Priya Menon,09:00,10:00,Lecture
+CS2024A,Wednesday,2,Computer Networks,LH-101,Dr. Anil Kumar,10:00,11:00,Lecture
+CS2024A,Wednesday,3,Database Systems Lab,CL-02,Prof. Meena Joshi,11:15,13:15,Lab
+CS2024A,Wednesday,4,Elective I,LH-301,Prof. Vikram Nair,14:00,15:00,Lecture
+CS2024A,Thursday,1,Database Systems,LH-205,Prof. Meena Joshi,09:00,10:00,Lecture
+CS2024A,Thursday,2,Data Structures,LH-101,Dr. Priya Menon,10:00,11:00,Lecture
+CS2024A,Thursday,3,Computer Networks Lab,CL-01,Dr. Anil Kumar,11:15,13:15,Lab
+CS2024A,Thursday,4,Elective I,LH-301,Prof. Vikram Nair,14:00,15:00,Lecture
+CS2024A,Friday,1,Operating Systems,LH-101,Prof. Rahul Sharma,09:00,10:00,Lecture
+CS2024A,Friday,2,Mathematics III,LH-203,Dr. Sunita Rao,10:00,11:00,Lecture
+CS2024A,Friday,3,Seminar,SEMHALL,HOD,11:15,12:15,Seminar
+CS2024A,Friday,4,Self-Study / Library,LIBRARY,,13:00,15:00,Self-Study
+CS2024B,Monday,1,Computer Networks,LH-102,Dr. Anil Kumar,09:00,10:00,Lecture
+CS2024B,Monday,2,Database Systems,LH-206,Prof. Meena Joshi,10:00,11:00,Lecture
+CS2024B,Monday,3,Data Structures,LH-102,Dr. Priya Menon,11:15,12:15,Lecture
+CS2024B,Monday,4,Computer Networks Lab,CL-02,Dr. Anil Kumar,14:00,16:00,Lab
+CS2024B,Tuesday,1,Operating Systems,LH-102,Prof. Rahul Sharma,09:00,10:00,Lecture
+CS2024B,Tuesday,2,Mathematics III,LH-204,Dr. Sunita Rao,10:00,11:00,Lecture
+CS2024B,Tuesday,3,Database Systems,LH-206,Prof. Meena Joshi,11:15,12:15,Lecture
+CS2024B,Tuesday,4,Data Structures,LH-102,Dr. Priya Menon,13:00,14:00,Lecture
+CS2024B,Wednesday,1,Operating Systems,LH-102,Prof. Rahul Sharma,09:00,10:00,Lecture
+CS2024B,Wednesday,2,Database Systems Lab,CL-02,Prof. Meena Joshi,10:00,12:00,Lab
+CS2024B,Wednesday,3,Elective I,LH-302,Prof. Vikram Nair,13:00,14:00,Lecture
+CS2024B,Wednesday,4,Mathematics III,LH-204,Dr. Sunita Rao,14:00,15:00,Lecture
+CS2024B,Thursday,1,Data Structures,LH-102,Dr. Priya Menon,09:00,10:00,Lecture
+CS2024B,Thursday,2,Computer Networks,LH-102,Dr. Anil Kumar,10:00,11:00,Lecture
+CS2024B,Thursday,3,Data Structures Lab,CL-01,Dr. Priya Menon,11:15,13:15,Lab
+CS2024B,Thursday,4,Elective I,LH-302,Prof. Vikram Nair,14:00,15:00,Lecture
+CS2024B,Friday,1,Mathematics III,LH-204,Dr. Sunita Rao,09:00,10:00,Lecture
+CS2024B,Friday,2,Operating Systems,LH-102,Prof. Rahul Sharma,10:00,11:00,Lecture
+CS2024B,Friday,3,Seminar,SEMHALL,HOD,11:15,12:15,Seminar
+CS2024B,Friday,4,Self-Study / Library,LIBRARY,,13:00,15:00,Self-Study
+EC2024A,Monday,1,Signals and Systems,LH-401,Dr. Kavitha Reddy,09:00,10:00,Lecture
+EC2024A,Monday,2,Digital Electronics,LH-401,Prof. Suresh Babu,10:00,11:00,Lecture
+EC2024A,Monday,3,Engineering Mathematics,LH-402,Dr. Sunita Rao,11:15,12:15,Lecture
+EC2024A,Monday,4,Digital Electronics Lab,EL-01,Prof. Suresh Babu,14:00,16:00,Lab
+EC2024A,Tuesday,1,Microprocessors,LH-401,Dr. Ravi Pillai,09:00,10:00,Lecture
+EC2024A,Tuesday,2,Signals and Systems,LH-401,Dr. Kavitha Reddy,10:00,11:00,Lecture
+EC2024A,Tuesday,3,Communication Theory,LH-403,Prof. Deepa Iyer,11:15,12:15,Lecture
+EC2024A,Tuesday,4,Engineering Mathematics,LH-402,Dr. Sunita Rao,13:00,14:00,Lecture
+EC2024A,Wednesday,1,Digital Electronics,LH-401,Prof. Suresh Babu,09:00,10:00,Lecture
+EC2024A,Wednesday,2,Microprocessors Lab,EL-02,Dr. Ravi Pillai,10:00,12:00,Lab
+EC2024A,Wednesday,3,Communication Theory,LH-403,Prof. Deepa Iyer,13:00,14:00,Lecture
+EC2024A,Wednesday,4,Elective II,LH-404,Prof. Anand Pillai,14:00,15:00,Lecture
+EC2024A,Thursday,1,Signals and Systems,LH-401,Dr. Kavitha Reddy,09:00,10:00,Lecture
+EC2024A,Thursday,2,Communication Theory,LH-403,Prof. Deepa Iyer,10:00,11:00,Lecture
+EC2024A,Thursday,3,Signals Lab,EL-01,Dr. Kavitha Reddy,11:15,13:15,Lab
+EC2024A,Thursday,4,Elective II,LH-404,Prof. Anand Pillai,14:00,15:00,Lecture
+EC2024A,Friday,1,Microprocessors,LH-401,Dr. Ravi Pillai,09:00,10:00,Lecture
+EC2024A,Friday,2,Engineering Mathematics,LH-402,Dr. Sunita Rao,10:00,11:00,Lecture
+EC2024A,Friday,3,Seminar,SEMHALL,HOD,11:15,12:15,Seminar
+EC2024A,Friday,4,Self-Study / Library,LIBRARY,,13:00,15:00,Self-Study

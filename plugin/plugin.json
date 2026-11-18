@@ -1,0 +1,44 @@
+{
+  "name": "campus-helpdesk",
+  "version": "1.0.0",
+  "description": "Nimbus Labs Campus Helpdesk Plugin — timetable lookup, campus status, and MCP-powered fee/hostel queries for the Nimbus Labs campus assistant.",
+  "author": "Ayush Yadgiri",
+  "homepage": "https://github.com/ayushyadgiri/campus-helpdesk-agent",
+  "license": "MIT",
+  "keywords": ["campus", "helpdesk", "timetable", "MCP", "education"],
+  "skills": [
+    "skills/timetable-helper"
+  ],
+  "commands": [
+    {
+      "name": "campus-status",
+      "description": "Show current campus operational status — open labs, upcoming lectures and fee deadlines.",
+      "file": "commands/campus-status.md"
+    }
+  ],
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash plugin/hooks/protect-paths.sh"
+          }
+        ]
+      }
+    ]
+  },
+  "mcpServers": {
+    "campus-helpdesk-mcp": {
+      "command": "python3",
+      "args": ["mcp-server/server.py"],
+      "env": {}
+    }
+  },
+  "marketplace": {
+    "category": "education",
+    "tags": ["campus", "timetable", "university", "helpdesk"],
+    "minClaudeCodeVersion": "1.0.0"
+  }
+}

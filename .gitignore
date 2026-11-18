@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+.eggs/
+.venv/
+venv/
+env/
+ENV/
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Logs
+*.log
+logs/
+
+# Secrets & keys — NEVER commit these
+.env
+.env.*
+*.pem
+*.key
+*.secret
+
+# MCP runtime artifacts
+mcp_inspector_output.json
+
+# Git worktree paths (linked worktrees live outside the repo)
+# worktrees/ is listed in .git/worktrees automatically
+
+# Node (for MCP Inspector tooling if used)
+node_modules/
+npm-debug.log*
+
+# PDF generation artifacts
+*.aux
+*.out
+*.toc
+
+# ZIP archives (generated locally)
+*.zip

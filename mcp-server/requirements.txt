@@ -1,0 +1,11 @@
+# Nimbus Labs Campus Helpdesk — MCP Server Dependencies
+#
+# Install in a virtual environment:
+#   python3 -m venv .venv
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# SDK note: mcp >= 1.0.0 supports stdio transport and FastMCP.
+# Protocol revision: 2024-11-05 (the stable revision supported by mcp 1.x)
+# See: https://github.com/modelcontextprotocol/python-sdk
+mcp>=1.0.0
